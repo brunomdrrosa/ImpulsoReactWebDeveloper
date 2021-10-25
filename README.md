@@ -32,9 +32,12 @@ Decidi me matricular no bootcamp da Impulso para conseguir melhorar minhas habil
 
 ## 🚧 Projetos
 
-<h1 align="center">
-EM BREVE ⚠️
-</h1>
+<h2 align="center">
+Showflix 🎵
+</h2>
+<p align="center">
+<a href="https://showflix-br.netlify.app/"><img src="https://i.imgur.com/ZtWwuMx.png"/>
+</p>
 
 ---
 
