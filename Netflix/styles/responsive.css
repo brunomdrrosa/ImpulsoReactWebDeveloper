@@ -9,6 +9,11 @@
     font-family: 'Bebas Neue', cursive;
     letter-spacing: 0.3px;
   }
+
+  .navbar {
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
 }
 
 @media screen and (min-width: 1000px) {
