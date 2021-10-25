@@ -5,8 +5,9 @@
   }
 
   .botao {
-    margin-top: 5px;
-    width: 300px;
+    font-size: 15px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 0.3px;
   }
 }
 
