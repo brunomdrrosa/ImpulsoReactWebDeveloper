@@ -36,8 +36,28 @@ Decidi me matricular no bootcamp da Impulso para conseguir melhorar minhas habil
 Showflix 🎵
 </h2>
 <p align="center">
-<a href="https://showflix-br.netlify.app/"><img src="https://i.imgur.com/ZtWwuMx.png"/>
+<a href="https://showflix-br.netlify.app/"><img src="https://i.imgur.com/ZtWwuMx.png"/></a>
 </p>
+
+<h2 align="center">
+Jogo do Dinossauro 🦖
+</h2>
+<p align="center">
+<a href="https://github.com/brunomdrrosa/ImpulsoReactWebDeveloper/tree/main/JogoDinossauro"><img src="https://i.imgur.com/lFvuOF8.png"/></a>
+</p>
+
+<h2 align="center">
+Encontre restaurantes próximos 👨🏼‍🍳
+</h2>
+<p align="center">
+<a href="https://github.com/brunomdrrosa/ImpulsoReactWebDeveloper/tree/main/restaurant-finder-main"><img src="https://i.imgur.com/YXhn3gI.png"/></a>
+</p>
+
+---
+
+## 🎓 Certificado
+
+<a href="https://certificates.digitalinnovation.one/9E8F38EF"><img src="https://i.imgur.com/QTD41f6.png"/></a>
 
 ---
 
